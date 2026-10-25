@@ -4,6 +4,20 @@ A web-based 3D Digital Twin and WebGIS project built with React, TypeScript, and
 
 The project started as an industrial GIS application for visualizing factory sites, infrastructure, equipment, and camera locations in an interactive 3D environment.
 
+
+### 3D Factory Overview
+
+![3D Factory Overview](docs/screenshots/factory-overview.png)
+
+### Multi-Site GIS Overview
+
+![Multi-Site GIS Overview](docs/screenshots/gis-overview.png)
+
+### 3D Factory Interior & Equipment
+
+![3D Factory Interior](docs/screenshots/factory-interior.png)
+
+
 ## Current Features
 
 - Interactive 3D map using CesiumJS
