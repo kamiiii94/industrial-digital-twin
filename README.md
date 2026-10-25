@@ -4,7 +4,13 @@ A web-based 3D Digital Twin and WebGIS project built with React, TypeScript, and
 
 The project started as an industrial GIS application for visualizing factory sites, infrastructure, equipment, and camera locations in an interactive 3D environment.
 
+# Underground Utility Networks
 
+![Underground Utility Networks](docs/screenshots/underground_mode.png)
+
+### Live Camera Integration
+
+![Underground Network Visualization](docs/screenshots/underground_mode_2.png)
 ### 3D Factory Overview
 
 ![3D Factory Overview](docs/screenshots/factory-overview.png)
